@@ -1,7 +1,6 @@
-GreenFrog
-=========
+# GreenFrog
 
-LICENCE by Kihansi (Duc Hau NGUYEN)
+Green Frog project by Kihansi
 
 ### Install project
 git clone ...
