@@ -1,0 +1,9 @@
+.idea/*
+composer.lock
+composer.phar
+phpunit.xml.dist
+tests/*
+var/*
+vendor/*
+app/config/parameters.yml
+app/config/parameters.yml.dist
